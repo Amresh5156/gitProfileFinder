@@ -53,8 +53,8 @@ function decorateprofiledata(details){
                             </div>
                         </div>
                         
-                        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-                            <div class="bg-gray-800 p-4 rounded-lg border border-gray-700">
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6 justify-items-center">
+                            <div class="bg-gray-800 p-4 rounded-lg border border-gray-700 w-full max-w-sm mx-auto">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-8 h-8 bg-blue-500 rounded-full flex items-center justify-center">
                                         <svg class="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 20 20">
@@ -67,7 +67,7 @@ function decorateprofiledata(details){
                                     </div>
                                 </div>
                             </div>
-                            <div class="bg-gray-800 p-4 rounded-lg border border-gray-700">
+                            <div class="bg-gray-800 p-4 rounded-lg border border-gray-700 w-full max-w-sm mx-auto">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-8 h-8 bg-green-500 rounded-full flex items-center justify-center">
                                         <svg class="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 20 20">
@@ -82,7 +82,7 @@ function decorateprofiledata(details){
                             </div>
                         </div>
                         
-                        <div class="bg-gray-800 p-4 rounded-lg border border-gray-700 mb-6">
+                        <div class="bg-gray-800 p-4 rounded-lg border border-gray-700 mb-6 w-full max-w-sm mx-auto">
                             <div class="flex items-center space-x-3">
                                 <div class="w-8 h-8 bg-purple-500 rounded-full flex items-center justify-center">
                                     <svg class="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 20 20">
